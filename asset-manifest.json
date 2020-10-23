@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_shoplist/static/css/main.44233662.chunk.css",
+    "main.js": "/react_shoplist/static/js/main.2e81b381.chunk.js",
+    "main.js.map": "/react_shoplist/static/js/main.2e81b381.chunk.js.map",
+    "runtime-main.js": "/react_shoplist/static/js/runtime-main.71ab3ae7.js",
+    "runtime-main.js.map": "/react_shoplist/static/js/runtime-main.71ab3ae7.js.map",
+    "static/js/2.2c24b15c.chunk.js": "/react_shoplist/static/js/2.2c24b15c.chunk.js",
+    "static/js/2.2c24b15c.chunk.js.map": "/react_shoplist/static/js/2.2c24b15c.chunk.js.map",
+    "index.html": "/react_shoplist/index.html",
+    "precache-manifest.6ba5d5408d44f59cd0d19988e6ac38ac.js": "/react_shoplist/precache-manifest.6ba5d5408d44f59cd0d19988e6ac38ac.js",
+    "service-worker.js": "/react_shoplist/service-worker.js",
+    "static/css/main.44233662.chunk.css.map": "/react_shoplist/static/css/main.44233662.chunk.css.map",
+    "static/js/2.2c24b15c.chunk.js.LICENSE.txt": "/react_shoplist/static/js/2.2c24b15c.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/react_shoplist/static/media/react_kermit.7d6ed491.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71ab3ae7.js",
+    "static/js/2.2c24b15c.chunk.js",
+    "static/css/main.44233662.chunk.css",
+    "static/js/main.2e81b381.chunk.js"
+  ]
+}
